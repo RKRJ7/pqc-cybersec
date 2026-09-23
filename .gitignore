@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (auto-created on startup)
+classmates.db
+*.db-journal
+
+# Logs & env
+*.log
+.env
+.env.local

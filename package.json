@@ -1,0 +1,15 @@
+{
+  "name": "classmate-hub",
+  "version": "1.0.0",
+  "description": "A simple class portal where students can log in, change their password, and leave a fun personal message.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "mlkem": "^2.7.0"
+  }
+}
